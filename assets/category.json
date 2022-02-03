@@ -1,0 +1,21 @@
+[
+  { "id": "0", "text": "ユーザーキーワード", "disabled": false },
+  { "id": "1", "text": "人", "disabled": false },
+  { "id": "2", "text": "業種 / サービス", "disabled": false },
+  { "id": "3", "text": "場所", "disabled": false },
+  { "id": "4", "text": "乗り物", "disabled": false },
+  { "id": "5", "text": "日用品 / 家電", "disabled": false },
+  { "id": "6", "text": "流行語 / 新語", "disabled": false },
+  { "id": "7", "text": "テレビ番組", "disabled": false },
+  { "id": "8", "text": "レトロ", "disabled": false },
+  { "id": "9", "text": "デジタル・web", "disabled": false },
+  { "id": "10", "text": "エンターテイメント", "disabled": false },
+  { "id": "11", "text": "広告・バズ", "disabled": false },
+  { "id": "12", "text": "ゲーム・遊び", "disabled": false },
+  { "id": "13", "text": "スポーツ", "disabled": false },
+  { "id": "14", "text": "天気/宇宙", "disabled": false },
+  { "id": "15", "text": "歴史", "disabled": false },
+  { "id": "16", "text": "素材", "disabled": false },
+  { "id": "17", "text": "食品・飲料", "disabled": false },
+  { "id": "18", "text": "イベント / 記念日", "disabled": false }
+]
